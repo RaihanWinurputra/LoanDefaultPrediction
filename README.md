@@ -86,7 +86,7 @@ Understanding the factors behind loan defaults also provides insights for improv
 From Exploratory Data Analysis (EDA), there are several interesting findings as follows:
 
 ## • Low Credit Score, High Risk
-![Bivariate Analysis: Credit Score vs Credit Default](path_to_image_1.png)  
+![Bivariate Analysis: Credit Score vs Credit Default](Notable Insight from EDA/Credit Score vs Credit Default.png)  
 A borrower's credit score exhibits a strong inverse correlation with their likelihood of default, with lower credit scores corresponding to a substantially increased risk of default. The marked peak around a credit score of 720 suggests that this score may represent a critical threshold in lending decisions, guiding risk assessments and credit approval processes. Borrowers with scores below 700 face a significantly elevated risk of default, highlighting the need for lenders to exercise heightened scrutiny when evaluating such applications. By adopting tailored strategies for this risk segment, lenders can better manage potential losses while ensuring prudent lending practices.
 
 ## • Stable Employment, Lower Risk
