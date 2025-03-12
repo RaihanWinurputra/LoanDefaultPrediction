@@ -2,6 +2,16 @@
 
 In this project, we aim to build a predictive model to determine whether an individual will default on a loan. This is a classification problem based on a dataset obtained from **Kaggle**.
 
+## Table of Contents
+- [Goal of the Project](#goal-of-the-project)
+- [Business Impact](#business-impact)
+- [Dataset](#dataset)
+- [Workflow](#workflow)
+- [Business Understanding](#business-understanding)
+- [Notable Insight from EDA](#notable-insight-from-eda)
+- [Modeling](#modeling)
+- [Business Recommendation](#business-recomendation)
+  
 ## Goal of the Project
 The primary objective is to develop a machine learning model that can accurately predict loan default, helping financial institutions minimize risk and improve lending strategies.
 
@@ -127,13 +137,12 @@ For predicting loan defaults, **LightGBM with Cost-Sensitive Learning** stands o
 
 This model reduces missed defaulters, lowers financial risks, and ensures reliable predictions, making it the top choice for loan default prediction.
 
-## Business Recommendation Based on Top 10 Important Features from Best Model
+## Business Recommendation
 
 ![Top 10 Important Features](https://github.com/RaihanWinurputra/LoanDefaultPrediction/blob/main/Image/Top%2010%20Feature%20Importance%20form%20Best%20Model.png)
 
-To reduce loan default risk and improve the loan approval process, it is crucial to leverage insights from predictive models. By understanding the key factors that drive loan default risk, businesses can make more informed decisions that align with both their financial goals and customer needs. The following business recommendations are derived from the top 10 features identified in the best model, highlighting how each factor can be used to mitigate risk and enhance loan offerings.
+To reduce loan default risk and improve the loan approval process, it is crucial to leverage insights from predictive models. By understanding the key factors that drive loan default risk, businesses can make more informed decisions that align with both their financial goals and customer needs. The following business recommendations are derived from the top 10 features identified in the best model, highlighting how each factor can be used to mitigate risk and enhance loan offerings. Recommendation:
 
-### Business Recommendations:
 - **Stricter Credit Score Thresholds**: Implement higher thresholds or risk-based interest rates for low credit scores to mitigate default risk.
 - **Comprehensive Financial Health Checks**: Assess applicants' income along with spending patterns and lifestyle costs to get a better understanding of their financial health.
 - **Tighter DTI Guidelines**: Set stricter Debt-to-Income (DTI) thresholds and provide financial advisory services to high-DTI applicants.
