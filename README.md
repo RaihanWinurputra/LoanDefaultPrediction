@@ -127,3 +127,21 @@ For predicting loan defaults, **LightGBM with Cost-Sensitive Learning** stands o
 
 This model reduces missed defaulters, lowers financial risks, and ensures reliable predictions, making it the top choice for loan default prediction.
 
+## Business Recommendation Based on Top 10 Important Features from Best Model
+
+![Top 10 Important Features](https://github.com/RaihanWinurputra/LoanDefaultPrediction/blob/main/Image/Top%2010%20Feature%20Importance%20form%20Best%20Model.png)
+
+To reduce loan default risk and improve the loan approval process, it is crucial to leverage insights from predictive models. By understanding the key factors that drive loan default risk, businesses can make more informed decisions that align with both their financial goals and customer needs. The following business recommendations are derived from the top 10 features identified in the best model, highlighting how each factor can be used to mitigate risk and enhance loan offerings.
+
+### Business Recommendations:
+- **Stricter Credit Score Thresholds**: Implement higher thresholds or risk-based interest rates for low credit scores to mitigate default risk.
+- **Comprehensive Financial Health Checks**: Assess applicants' income along with spending patterns and lifestyle costs to get a better understanding of their financial health.
+- **Tighter DTI Guidelines**: Set stricter Debt-to-Income (DTI) thresholds and provide financial advisory services to high-DTI applicants.
+- **Limit Loan-to-Income Ratio**: Reduce the loan amount relative to income and consider tiered loan structures, starting with smaller loans for higher-risk applicants.
+- **Cross-check Existing Loans**: Carefully assess the applicant’s current loan amount and encourage the repayment of existing loans before approving new ones.
+- **Minimum Credit History Requirement**: Set a minimum credit history length (2-3 years) for larger loan amounts and consider alternative data for newer borrowers.
+- **Manage Credit Utilization**: Enforce stricter conditions for applicants with high credit utilization and offer financial literacy programs to help reduce reliance on credit.
+- **Gradual Loan Disbursements**: For applicants with high credit balances, implement gradual disbursements to avoid excessive debt accumulation.
+- **Prefer Homeowners**: Offer better loan terms to homeowners as they are generally more financially stable and provide collateral.
+- **Encourage Long-Term Credit History**: Require longer credit history per account for higher loan amounts and consider alternative data for those with shorter histories.
+
