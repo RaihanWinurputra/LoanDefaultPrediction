@@ -60,7 +60,7 @@ The Loan Default Prediction project follows a structured workflow to ensure comp
    Developing machine learning models to predict loan defaults:
    - Training multiple models and selecting the best-performing one
    - The models used: Logistic Regression, LightGBM, and XGBoost
-   - Evaluating models using metrics like accuracy, precision, recall, F1-score, and AUC-ROC
+   - Evaluating models using metrics like accuracy, precision, recall, F1-score, and ROC-AUC
    - Optimizing hyperparameters for improved performance
 
 **For a detailed explanation of the insights, processes, and reasoning behind each step, refer to the Notebook included in this repository.**
