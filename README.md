@@ -10,7 +10,7 @@ In this project, we aim to build a predictive model to determine whether an indi
 - [Business Understanding](#business-understanding)
 - [Notable Insight from EDA](#notable-insight-from-eda)
 - [Modeling](#modeling)
-- [Business Recommendation](#business-recomendation)
+- [Business Recommendation](#business-recommendation)
   
 ## Goal of the Project
 The primary objective is to develop a machine learning model that can accurately predict loan default, helping financial institutions minimize risk and improve lending strategies.
