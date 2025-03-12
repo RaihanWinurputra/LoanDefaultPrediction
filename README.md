@@ -85,18 +85,18 @@ Understanding the factors behind loan defaults also provides insights for improv
 
 From Exploratory Data Analysis (EDA), there are several interesting findings as follows:
 
-## • Low Credit Score, High Risk
+## Low Credit Score, High Risk
 ![Credit Score vs Credit Default](https://github.com/RaihanWinurputra/LoanDefaultPrediction/blob/main/Notable%20Insight%20from%20EDA/Credit%20Score%20vs%20Credit%20Default.png)  
 A borrower's credit score exhibits a strong inverse correlation with their likelihood of default, with lower credit scores corresponding to a substantially increased risk of default. The marked peak around a credit score of 720 suggests that this score may represent a critical threshold in lending decisions, guiding risk assessments and credit approval processes. Borrowers with scores below 700 face a significantly elevated risk of default, highlighting the need for lenders to exercise heightened scrutiny when evaluating such applications. By adopting tailored strategies for this risk segment, lenders can better manage potential losses while ensuring prudent lending practices.
 
-## • Stable Employment, Lower Risk
+## Stable Employment, Lower Risk
 ![Years in Current Job vs Credit Default](https://github.com/RaihanWinurputra/LoanDefaultPrediction/blob/main/Notable%20Insight%20from%20EDA/Years%20in%20Current%20Job%20vs%20Credit%20Default.png)  
 Job stability, as reflected in longer employment tenure—especially around the 10-year mark—plays a pivotal role in reducing default risk. Borrowers with extended job histories often demonstrate a reliable and steady source of income, which enhances their financial resilience and ability to meet repayment obligations. Stable employment not only signals consistent earnings but also suggests a level of responsibility and commitment, traits that are highly valued by lenders. Consequently, individuals with lengthy employment records are typically regarded as more dependable and lower-risk borrowers.
 
-## • Financial Vulnerability and Credit Default
+## Financial Vulnerability and Credit Default
 ![Income vs Credit Default](https://github.com/RaihanWinurputra/LoanDefaultPrediction/blob/main/Notable%20Insight%20from%20EDA/Annual%20Income%20vs%20Credit%20Default.png)  
 Income level is a critical factor in assessing the likelihood of loan default. Borrowers with lower annual incomes often face greater financial constraints, which can hinder their ability to meet repayment obligations consistently. Limited income may reduce their capacity to absorb unexpected expenses or economic shocks, increasing the risk of missed payments or default. Consequently, lenders often consider income stability and sufficiency when evaluating a borrower's creditworthiness.
 
-## • Debt to Income Ratio
+## Debt to Income Ratio
 ![Debt to Income Ratio vs Credit Default](https://github.com/RaihanWinurputra/LoanDefaultPrediction/blob/main/Notable%20Insight%20from%20EDA/Debt%20to%20Income%20Ratio.png)  
 A higher debt-to-income (DTI) ratio is closely linked to an increased risk of loan default, with borrowers exceeding the 0.15–0.20 range warranting closer monitoring. The majority of defaults are observed within the DTI range of 0.10–0.30, indicating that this span may serve as a critical zone for assessing financial vulnerability. This pattern highlights the importance of DTI as a key metric for lenders when refining risk assessment models. By identifying and addressing borrowers with elevated DTI ratios, lenders can proactively mitigate potential defaults and enhance the overall robustness of their credit evaluation processes.
